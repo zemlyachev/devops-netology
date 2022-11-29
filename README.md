@@ -1,3 +1,3 @@
 # devops-netology
 
-DEVOPS-25
+Будут проигнорированны вспомогательные файлы Terraform
