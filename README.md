@@ -10,3 +10,5 @@
 - все файлы имена (с расширениями \*.tf и *.tf.json) которых заканчиваются на \*_override.tf
 \*_override.tf.json;
 - а также файлы имеющие имена .terraformrc и terraform.rc.
+
+//
