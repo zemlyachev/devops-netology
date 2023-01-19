@@ -81,7 +81,7 @@
 > Date: Wed May 3 22:24:51 2017 -0400
 > ```
 
-## 1. Кто автор функции `synchronizedWriters`?
+## 7. Кто автор функции `synchronizedWriters`?
 
 > `git log -S synchronizedWriters`
 >
