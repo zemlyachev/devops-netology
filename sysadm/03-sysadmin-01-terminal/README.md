@@ -1,4 +1,4 @@
-## Задание
+# Решение к [заданию](https://github.com/netology-code/sysadm-homeworks/blob/devsys10/03-sysadmin-01-terminal/README.md)
 
 1. С помощью базового файла конфигурации запустите Ubuntu 20.04 в VirtualBox посредством Vagrant..
 
