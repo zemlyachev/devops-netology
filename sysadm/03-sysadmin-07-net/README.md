@@ -1,6 +1,6 @@
 ## Задание
 
-https://github.com/netology-code/sysadm-homeworks/blob/devsys10/03-sysadmin-06-net/README.md
+https://github.com/netology-code/sysadm-homeworks/blob/devsys10/03-sysadmin-07-net/README.md
 
 ## Решение
 

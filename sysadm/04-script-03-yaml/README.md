@@ -98,7 +98,7 @@ while True:
 
 ### Вывод скрипта при запуске во время тестирования
 
-```
+```shell
 /usr/local/bin/python3.9 /Users/andrej/Documents/GitHub/devops-netology/sysadm/04-script-03-yaml/test.py 
 drive.google.com     - 173.194.73.194
 mail.google.com      - 216.58.209.197
