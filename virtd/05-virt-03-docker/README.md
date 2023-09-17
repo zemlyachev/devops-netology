@@ -90,8 +90,8 @@ Hey, Netology
 > 4c2fed2532a5d125e4d1b304206ff9eca0f19590ffbe6660706f020200428985
 > ➜  src_3 git:(main) ✗ docker ps -a
 > CONTAINER ID   IMAGE                          COMMAND                  CREATED              STATUS                      PORTS                           NAMES
-> 4c2fed2532a5   debian                         "bash"                   27 seconds ago       Exited (0) 26 seconds ago                                   debian-cont
-> ec03751ed45b   centos                         "/bin/bash"              46 seconds ago       Exited (0) 45 seconds ago                                   centos-cont
+> 4c2fed2532a5   debian                         "bash"                   27 seconds ago       Up 27 seconds                                   debian-cont
+> ec03751ed45b   centos                         "/bin/bash"              46 seconds ago       Up 46 seconds                                   centos-cont
 > ➜  src_3 git:(main) ✗ docker exec centos-cont /bin/bash -c "touch /data/somefile.txt"
 > ➜  src_3 git:(main) ✗ touch /data/somefile2.txt
 > ➜  src_3 git:(main) ✗ docker exec debian-cont ls -ll data/
